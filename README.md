@@ -9,7 +9,7 @@ We meet on Tuesday 15:00-16:30pm.
 #### July 15
 
 A Gentle Introduction to Conformal Prediction and
-Distribution-Free Uncertainty Quantification
+Distribution-Free Uncertainty Quantification [Chapter 1, 2, 3]
 \
 Angelopoulos et al, arXiv v6, 2022
 \
