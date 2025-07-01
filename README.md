@@ -28,3 +28,11 @@ Conformal Prediction for Zero-Shot Models
 Silva-Rodríguez et al, CVPR, 2024 
 \
 [[`paper`](https://openaccess.thecvf.com/content/CVPR2025/papers/Silva-Rodriguez_Conformal_Prediction_for_Zero-Shot_Models_CVPR_2025_paper.pdf)]
+
+Conformal Prediction Under Covariate Shift
+\
+Tibshirani, NeurIPS, 2019 
+\
+[[`paper`](
+https://arxiv.org/pdf/1904.06019)]
+
