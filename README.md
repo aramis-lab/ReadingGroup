@@ -11,7 +11,7 @@ We meet on Tuesday 15:00-16:30pm.
 A Gentle Introduction to Conformal Prediction and
 Distribution-Free Uncertainty Quantification
 \
-Angelopoulos et al, arXiv
+Angelopoulos et al, arXiv v6, 2022
 \
 [[`paper`](https://people.eecs.berkeley.edu/~angelopoulos/publications/downloads/gentle_intro_conformal_dfuq.pdf)]
 
@@ -19,12 +19,12 @@ Angelopoulos et al, arXiv
 
 Conformal prediction beyond exchangeability
 \
-Barber et al, Project Euclid
+Barber et al, Project Euclid, 2023
 \
 [[`paper`](https://arxiv.org/pdf/2202.13415)]
 
 Conformal Prediction for Zero-Shot Models 
 \
-Silva-Rodríguez et al, CVPR
+Silva-Rodríguez et al, CVPR, 2024 
 \
 [[`paper`](https://openaccess.thecvf.com/content/CVPR2025/papers/Silva-Rodriguez_Conformal_Prediction_for_Zero-Shot_Models_CVPR_2025_paper.pdf)]
