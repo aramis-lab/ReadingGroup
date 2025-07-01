@@ -16,6 +16,12 @@ Angelopoulos et al, arXiv v6, 2022
 [[`paper`](https://people.eecs.berkeley.edu/~angelopoulos/publications/downloads/gentle_intro_conformal_dfuq.pdf)]
 
 ## Paper stack
+E-Values Expand the Scope of Conformal Prediction
+\
+Gauthier et al, arXiv, 2025
+\
+[[`paper`](https://arxiv.org/pdf/2503.13050)]
+
 
 Conformal prediction beyond exchangeability
 \
