@@ -21,7 +21,7 @@ Snell, et al, 2025
 \
 [[`paper`](https://arxiv.org/pdf/2502.13228)]
 
-## Next meeting
+## Past meeting
 
 #### July 31
 
