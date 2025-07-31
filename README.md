@@ -15,7 +15,7 @@ Lei, et al, 2017
 \
 [[`paper`](https://arxiv.org/pdf/1604.04173)]
 
-2. Conformal Prediction as Bayesian Quadrature \
+2. Conformal Prediction as Bayesian Quadrature 
 \
 Snell, et al, 2025
 \
