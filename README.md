@@ -6,6 +6,33 @@ We meet on Tuesday 15:00-16:30pm.
 
 ## Next meeting
 
+#### August 26: 15:00-16:30pm.
+
+1. Distribution-Free Predictive Inference For Regression
+**Section 5.2 Locally-Weighted Conformal Inference only**
+\
+Lei, et al, 2017
+\
+[[`paper`](https://arxiv.org/pdf/1604.04173)]
+
+2. Conformal Prediction as Bayesian Quadrature \
+\
+Snell, et al, 2025
+\
+[[`paper`](https://arxiv.org/pdf/2502.13228)]
+
+## Next meeting
+
+#### July 31
+
+A Gentle Introduction to Conformal Prediction and
+Distribution-Free Uncertainty Quantification [Chapter 4, 5, 6]
+\
+Angelopoulos et al, arXiv v6, 2022
+\
+[[`paper`](https://people.eecs.berkeley.edu/~angelopoulos/publications/downloads/gentle_intro_conformal_dfuq.pdf)]
+
+
 #### July 15
 
 A Gentle Introduction to Conformal Prediction and
