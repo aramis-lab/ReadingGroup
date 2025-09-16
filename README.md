@@ -6,8 +6,20 @@ We meet on Tuesday 15:00-16:30pm.
 
 ## Next meeting
 
-#### August 26: 15:00-16:30pm.
 
+## Past meeting
+
+
+#### September 16: 15:00-16:30pm.
+1. Conformal Prediction Sets Improve Human Decision Making
+\
+Cresswell, et al, 2017
+\
+[[`paper`](https://arxiv.org/pdf/2401.13744)]
+
+
+
+#### August 26: 15:00-16:30pm.
 1. Distribution-Free Predictive Inference For Regression
 **Section 5.2 Locally-Weighted Conformal Inference only**
 \
@@ -20,8 +32,6 @@ Lei, et al, 2017
 Snell, et al, 2025
 \
 [[`paper`](https://arxiv.org/pdf/2502.13228)]
-
-## Past meeting
 
 #### July 31
 
