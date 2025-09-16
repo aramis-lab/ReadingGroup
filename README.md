@@ -90,3 +90,9 @@ Machlanski et al, UKAIRS, 2025
 \
 [[`paper`](https://arxiv.org/pdf/2508.12798)]
 
+## Additional Resources
+
+- [YouTube tutorial by A. Angelopoulos](https://www.youtube.com/@anastasiosangelopoulos/videos
+- [Introduction to conformal prediction with Python](https://christophmolnar.com/books/conformal-prediction)
+- [UQ in Medical Image Analysis - MICCAI Tutorial (2023 & 2024)](https://github.com/agaldran/uqinmia-miccai-2023)
+
