@@ -76,6 +76,17 @@ Conformal Prediction Under Covariate Shift
 \
 Tibshirani, NeurIPS, 2019 
 \
-[[`paper`](
-https://arxiv.org/pdf/1904.06019)]
+[[`paper`](https://arxiv.org/pdf/1904.06019)]
+
+A Primer on Causal and Statistical Dataset Biases for Fair and Robust Image Analysis
+\
+Jones and Glocker, 2025
+\
+[[`paper`](https://arxiv.org/pdf/2509.04295)]
+
+A Shift in Perspective on Causality in Domain Generalization
+\
+Machlanski et al, UKAIRS, 2025 
+\
+[[`paper`](https://arxiv.org/pdf/2508.12798)]
 
