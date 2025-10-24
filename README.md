@@ -5,13 +5,30 @@ We meet on Tuesday 15:00-16:30pm.
 - Feel free to add papers to the paper stack with a PR.
 
 ## Next meeting
+#### November 4: 15:00-16:30pm.
+PPI++: Efficient Prediction-Powered Inference
+\
+Angelopoulos, et al, 2024
+\
+[[`paper`](https://arxiv.org/pdf/2311.01453)]
+
 
 
 ## Past meeting
 
 
+#### October 21: 15:00-16:30pm.
+Prediction-Powered Inference
+\
+Angelopoulos, et al, 2023
+\
+[[`paper`](https://arxiv.org/pdf/2301.09633)]
+
+
+
+
 #### September 16: 15:00-16:30pm.
-1. Conformal Prediction Sets Improve Human Decision Making
+Conformal Prediction Sets Improve Human Decision Making
 \
 Cresswell, et al, 2017
 \
