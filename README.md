@@ -5,7 +5,7 @@ We meet on Tuesday 15:00-16:30pm.
 - Feel free to add papers to the paper stack with a PR.
 
 ## Next meeting
-#### November 4: 15:00-16:30pm.
+#### November 4: 9:30-11:00pm.
 PPI++: Efficient Prediction-Powered Inference
 \
 Angelopoulos, et al, 2024
