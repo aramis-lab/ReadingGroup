@@ -13,19 +13,6 @@ Angelopoulos, et al, 2024
 [[`paper`](https://arxiv.org/pdf/2311.01453)]
 
 
-#### November 13: 11:00-12:00am.
-Learning the natural history of human disease with generative transformers
-\
-Shmatko, et al, 2025
-\
-[[`paper`](https://www.nature.com/articles/s41586-025-09529-3)]
-
-#### November 20: 11:00-12:00am.
-Subtyping of Alzheimer’s disease and Parkinson’s disease based on pre-diagnostic clinical information: a deep learning study with external validation, prognostic relevance, and genetic explanation
-\
-Lian, et al, 2025
-\
-Paper in the Mattermost channel (paper still in review in Nature Aging)
 
 ## Past meeting
 
