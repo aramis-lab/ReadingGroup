@@ -21,11 +21,11 @@ Shmatko, et al, 2025
 [[`paper`](https://www.nature.com/articles/s41586-025-09529-3)]
 
 #### November 20: 11:00-12:00am.
-Subtyping of Alzheimer’s disease and Parkinson’s disease based on pre-diagnostic clinical information: a deep learning study with external validation, prognostic relevance, and genetic explanation
+Progression subtypes in Parkinson’s disease identified by a data-driven multi cohort analysis
 \
-Lian, et al, 2025
+Hähnel, et al, 2024
 \
-Paper in the Mattermost channel (paper still in review in Nature Aging)
+[[`paper`](https://www.nature.com/articles/s41531-024-00712-3)]
 
 ## Past meeting
 
