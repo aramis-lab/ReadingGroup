@@ -13,14 +13,14 @@ Angelopoulos, et al, 2024
 [[`paper`](https://arxiv.org/pdf/2311.01453)]
 
 
-#### November 13: 11:00-12:00am.
+#### November 13: 11:30-12:30am.
 Learning the natural history of human disease with generative transformers
 \
 Shmatko, et al, 2025
 \
 [[`paper`](https://www.nature.com/articles/s41586-025-09529-3)]
 
-#### November 20: 11:00-12:00am.
+#### November 20: 11:30-12:30am.
 Progression subtypes in Parkinson’s disease identified by a data-driven multi cohort analysis
 \
 Hähnel, et al, 2024
