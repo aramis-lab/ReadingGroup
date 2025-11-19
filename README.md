@@ -5,12 +5,14 @@ We meet on Tuesday 15:00-16:30pm.
 - Feel free to add papers to the paper stack with a PR.
 
 ## Next meeting
-#### November 4: 9:30-11:00pm.
-PPI++: Efficient Prediction-Powered Inference
+#### November 20: 11:30-12:30am.
+Progression subtypes in Parkinson’s disease identified by a data-driven multi cohort analysis
 \
-Angelopoulos, et al, 2024
+Hähnel, et al, 2024
 \
-[[`paper`](https://arxiv.org/pdf/2311.01453)]
+[[`paper`](https://www.nature.com/articles/s41531-024-00712-3)]
+
+## Past meeting
 
 
 #### November 13: 11:30-12:30am.
@@ -20,14 +22,13 @@ Shmatko, et al, 2025
 \
 [[`paper`](https://www.nature.com/articles/s41586-025-09529-3)]
 
-#### November 20: 11:30-12:30am.
-Progression subtypes in Parkinson’s disease identified by a data-driven multi cohort analysis
+#### November 4: 9:30-11:00pm.
+PPI++: Efficient Prediction-Powered Inference
 \
-Hähnel, et al, 2024
+Angelopoulos, et al, 2024
 \
-[[`paper`](https://www.nature.com/articles/s41531-024-00712-3)]
+[[`paper`](https://arxiv.org/pdf/2311.01453)]
 
-## Past meeting
 
 
 #### October 21: 15:00-16:30pm.
