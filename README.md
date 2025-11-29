@@ -5,15 +5,21 @@ We meet on Tuesday 15:00-16:30pm.
 - Feel free to add papers to the paper stack with a PR.
 
 ## Next meeting
+#### December 16: 15:00-16:30pm.
+Efficient Randomized Experiments Using Foundation Models
+\
+De Bartolomeis, et al, 2025
+\
+[[`paper`](https://arxiv.org/pdf/2502.04262)]
+
+## Past meeting
+
 #### November 20: 11:30-12:30am.
 Progression subtypes in Parkinson’s disease identified by a data-driven multi cohort analysis
 \
 Hähnel, et al, 2024
 \
 [[`paper`](https://www.nature.com/articles/s41531-024-00712-3)]
-
-## Past meeting
-
 
 #### November 13: 11:30-12:30am.
 Learning the natural history of human disease with generative transformers
