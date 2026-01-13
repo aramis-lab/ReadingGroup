@@ -5,14 +5,37 @@ We meet on Tuesday 15:00-16:30pm.
 - Feel free to add papers to the paper stack with a PR.
 
 ## Next meeting
+#### February 3: 15:00-16:30pm.
+A Conceptual Introduction to Hamiltonian Monte Carlo
+\
+Betancourt, et al, 2018
+\
+[[`paper`](https://arxiv.org/pdf/1701.02434)]
+
+
+## Past meeting
+
+#### January 13: 15:00-16:30pm.
+Analytic Pearson residuals for normalization of single-cell RNA-seq UMI data
+\
+Lause, et al, 2021
+\
+[[`paper`](https://link.springer.com/article/10.1186/s13059-021-02451-7)]
+
+
+#### January 13: 15:00-16:30pm.
+Analytic Pearson residuals for normalization of single-cell RNA-seq UMI data
+\
+Lause, et al, 2021
+\
+[[`paper`](https://link.springer.com/article/10.1186/s13059-021-02451-7)]
+
 #### December 16: 15:00-16:30pm.
 Efficient Randomized Experiments Using Foundation Models
 \
 De Bartolomeis, et al, 2025
 \
 [[`paper`](https://arxiv.org/pdf/2502.04262)]
-
-## Past meeting
 
 #### November 20: 11:30-12:30am.
 Progression subtypes in Parkinson’s disease identified by a data-driven multi cohort analysis
