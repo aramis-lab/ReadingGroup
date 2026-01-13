@@ -6,7 +6,7 @@ We meet on Tuesday 15:00-16:30pm.
 
 ## Next meeting
 #### February 3: 15:00-16:30pm.
-A Conceptual Introduction to Hamiltonian Monte Carlo
+Chapter 1 and 2: A Conceptual Introduction to Hamiltonian Monte Carlo
 \
 Betancourt, et al, 2018
 \
