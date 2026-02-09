@@ -5,15 +5,22 @@ We meet on Tuesday 15:00-16:30pm.
 - Feel free to add papers to the paper stack with a PR.
 
 ## Next meeting
+
+#### February 10: 15:00-16:30pm.
+11. SAMPLING METHODS: Pattern Recognition and Machine Learning - page 523
+\
+Bishop, 2006
+\
+[[`paper`](https://www.microsoft.com/en-us/research/wp-content/uploads/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf)]
+
+## Past meeting
+
 #### February 3: 15:00-16:30pm.
 Chapter 1 and 2: A Conceptual Introduction to Hamiltonian Monte Carlo
 \
 Betancourt, et al, 2018
 \
 [[`paper`](https://arxiv.org/pdf/1701.02434)]
-
-
-## Past meeting
 
 #### January 13: 15:00-16:30pm.
 Analytic Pearson residuals for normalization of single-cell RNA-seq UMI data
