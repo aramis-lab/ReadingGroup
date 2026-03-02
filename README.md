@@ -6,14 +6,22 @@ We meet on Tuesday 15:00-16:30pm.
 
 ## Next meeting
 
-#### February 10: 15:00-16:30pm.
-11. SAMPLING METHODS: Pattern Recognition and Machine Learning - page 523
+#### March 2: 15:00-16:30pm.
+11.2 Markov Chain Monte Carlo  - page 537
 \
 Bishop, 2006
 \
 [[`paper`](https://www.microsoft.com/en-us/research/wp-content/uploads/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf)]
 
 ## Past meeting
+
+#### February 10: 15:00-16:30pm.
+11 SAMPLING METHODS: Pattern Recognition and Machine Learning - page 523
+\
+Bishop, 2006
+\
+[[`paper`](https://www.microsoft.com/en-us/research/wp-content/uploads/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf)]
+
 
 #### February 3: 15:00-16:30pm.
 Chapter 1 and 2: A Conceptual Introduction to Hamiltonian Monte Carlo
