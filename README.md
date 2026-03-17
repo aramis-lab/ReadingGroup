@@ -6,18 +6,26 @@ We meet on Tuesday 15:00-16:30pm.
 
 ## Next meeting
 
-#### March 17: 15:00-16:30pm.
-Mamba: Linear-Time Sequence Modeling with Selective State Spaces
+#### March 31: 15:00-16:30pm.
+When majority rules, minority loses: bias amplification of gradient descent
 \
-Albert Gu and Tri Dao, 2024
+Bachoc, et al, 2025
 \
-[[`paper`](https://arxiv.org/pdf/2312.00752)]
+[[`paper`](https://arxiv.org/pdf/2505.13122)]
+
 
 
 
 
 
 ## Past meeting
+
+#### March 17: 15:00-16:30pm.
+Mamba: Linear-Time Sequence Modeling with Selective State Spaces
+\
+Albert Gu and Tri Dao, 2024
+\
+[[`paper`](https://arxiv.org/pdf/2312.00752)]
 
 #### March 2: 15:00-16:30pm.
 11.2 Markov Chain Monte Carlo  - page 537
