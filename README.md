@@ -5,6 +5,17 @@ We meet on Tuesday 15:00-16:30pm.
 - Feel free to add papers to the paper stack with a PR.
 
 ## Next meeting
+#### April 14: 15:00-16:30pm.
+When majority rules, minority loses: bias amplification of gradient descent
+\
+Bachoc, et al, 2025
+\
+[[`paper`](https://arxiv.org/pdf/2505.13122)]
+
+
+
+## Past meeting
+
 #### March 31: 15:00-16:30pm.
 An Information Criterion for Controlled Disentanglement of Multimodal Data
 \
@@ -13,8 +24,6 @@ Wang, et al, 2025
 [[`paper`](https://openreview.net/pdf?id=3n4RY25UWP)]
 
 
-
-## Past meeting
 
 #### March 17: 15:00-16:30pm.
 Mamba: Linear-Time Sequence Modeling with Selective State Spaces
@@ -144,14 +153,6 @@ Angelopoulos et al, arXiv v6, 2022
 [[`paper`](https://people.eecs.berkeley.edu/~angelopoulos/publications/downloads/gentle_intro_conformal_dfuq.pdf)]
 
 ## Paper stack
-
-#### TBD 15:00-16:30pm.
-When majority rules, minority loses: bias amplification of gradient descent
-\
-Bachoc, et al, 2025
-\
-[[`paper`](https://arxiv.org/pdf/2505.13122)]
-
 
 
 E-Values Expand the Scope of Conformal Prediction
