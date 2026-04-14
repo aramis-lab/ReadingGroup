@@ -5,6 +5,17 @@ We meet on Tuesday 15:00-16:30pm.
 - Feel free to add papers to the paper stack with a PR.
 
 ## Next meeting
+
+#### April 28: 15:00-16:30pm.
+A Theoretical Analysis of the Learning Dynamics under Class Imbalance
+\
+Francazi et al, 2023
+\
+[[`paper`](https://proceedings.mlr.press/v202/francazi23a/francazi23a.pdf)]
+
+
+## Past meetings
+
 #### April 14: 15:00-16:30pm.
 When majority rules, minority loses: bias amplification of gradient descent
 \
@@ -13,8 +24,6 @@ Bachoc, et al, 2025
 [[`paper`](https://arxiv.org/pdf/2505.13122)]
 
 
-
-## Past meeting
 
 #### March 31: 15:00-16:30pm.
 An Information Criterion for Controlled Disentanglement of Multimodal Data
