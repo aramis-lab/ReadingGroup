@@ -6,20 +6,30 @@ We meet on Tuesday 15:00-16:30pm.
 
 ## Next meeting
 
-#### April 28: 15:00-16:30pm.
-A Theoretical Analysis of the Learning Dynamics under Class Imbalance
+#### May 19: 15:00-16:30pm.
+Detecting and Mitigating Memorization in Diffusion Models through Anisotropy of the Log-Probability
 \
-Francazi et al, 2023
+Rohan Asthana, Vasileios Belagiannis, ICLR 2026
 \
-[[`paper`](https://proceedings.mlr.press/v202/francazi23a/francazi23a.pdf)]
+[[`paper`](https://openreview.net/pdf?id=HTPGy5ydAY)]
+
 
 
 ## Past meetings
 
+#### April 28: 15:00-16:30pm.
+A Theoretical Analysis of the Learning Dynamics under Class Imbalance
+\
+Francazi et al, ICML 2023
+\
+[[`paper`](https://proceedings.mlr.press/v202/francazi23a/francazi23a.pdf)]
+
+
+
 #### April 14: 15:00-16:30pm.
 When majority rules, minority loses: bias amplification of gradient descent
 \
-Bachoc, et al, 2025
+Bachoc, et al, NeurIPS 2025
 \
 [[`paper`](https://arxiv.org/pdf/2505.13122)]
 
@@ -28,7 +38,7 @@ Bachoc, et al, 2025
 #### March 31: 15:00-16:30pm.
 An Information Criterion for Controlled Disentanglement of Multimodal Data
 \
-Wang, et al, 2025
+Wang, et al, ICLR 2025
 \
 [[`paper`](https://openreview.net/pdf?id=3n4RY25UWP)]
 
@@ -37,7 +47,7 @@ Wang, et al, 2025
 #### March 17: 15:00-16:30pm.
 Mamba: Linear-Time Sequence Modeling with Selective State Spaces
 \
-Albert Gu and Tri Dao, 2024
+Albert Gu and Tri Dao, COLM 2024
 \
 [[`paper`](https://arxiv.org/pdf/2312.00752)]
 
