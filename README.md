@@ -11,7 +11,7 @@ Detecting and Mitigating Memorization in Diffusion Models through Anisotropy of 
 \
 Rohan Asthana, Vasileios Belagiannis, ICLR 2026
 \
-[[`paper`](https://openreview.net/pdf?id=HTPGy5ydAY)]
+[[`paper`](https://arxiv.org/pdf/2601.20642)]
 
 
 
