@@ -6,6 +6,16 @@ We meet on Tuesday 15:00-16:30pm.
 
 ## Next meeting
 
+#### June 2: 15:00-16:30pm.
+LeWorldModel: Stable End-to-End Joint-Embedding Predictive Architecture from Pixels \
+Maes*, Le Lidec*, et al, ArXiv
+\
+[[`paper`](https://arxiv.org/pdf/2603.19312)]
+
+
+
+## Past meetings
+
 #### May 19: 15:00-16:30pm.
 Detecting and Mitigating Memorization in Diffusion Models through Anisotropy of the Log-Probability
 \
@@ -14,8 +24,6 @@ Rohan Asthana, Vasileios Belagiannis, ICLR 2026
 [[`paper`](https://arxiv.org/pdf/2601.20642)]
 
 
-
-## Past meetings
 
 #### April 28: 15:00-16:30pm.
 A Theoretical Analysis of the Learning Dynamics under Class Imbalance
