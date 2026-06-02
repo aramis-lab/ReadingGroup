@@ -6,6 +6,16 @@ We meet on Tuesday 15:00-16:30pm.
 
 ## Next meeting
 
+#### June 16: 15:00-16:30pm.
+Personalized Representation from Personalized Generation \
+Shobhita Sundaram, et al, ICLR 2026
+[[`paper`](https://proceedings.iclr.cc/paper_files/paper/2025/file/e76eb4cf820bfd93abd9cf46b74aef35-Paper-Conference.pdf)]
+
+
+
+
+## Past meetings
+
 #### June 2: 15:00-16:30pm.
 LeWorldModel: Stable End-to-End Joint-Embedding Predictive Architecture from Pixels \
 Maes*, Le Lidec*, et al, ArXiv
@@ -13,8 +23,6 @@ Maes*, Le Lidec*, et al, ArXiv
 [[`paper`](https://arxiv.org/pdf/2603.19312)]
 
 
-
-## Past meetings
 
 #### May 19: 15:00-16:30pm.
 Detecting and Mitigating Memorization in Diffusion Models through Anisotropy of the Log-Probability
