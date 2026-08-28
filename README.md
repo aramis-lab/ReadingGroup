@@ -6,15 +6,21 @@ We meet on Tuesday 15:00-16:30pm.
 
 ## Next meeting
 
+#### Sept 1: 15:30-17:00pm.
+Health system learning enables generalist neuroimaging models \
+Kondepudi, et al, Nature Medecine 2026 \
+[[`paper`](https://www.nature.com/articles/s41591-026-04497-1)]
+
+
+
+## Past meetings
+
 #### June 30: 15:00-16:30pm.
 Accurate predictions on small data with a tabular foundation model \
 Hollmann*, Müller*, et al, Nature 2025 \
 [[`paper`](https://www.nature.com/articles/s41586-024-08328-6.pdf)]
 
 
-
-
-## Past meetings
 
 #### June 16: 15:00-16:30pm.
 Personalized Representation from Personalized Generation \
