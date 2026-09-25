@@ -210,6 +210,13 @@ Angelopoulos et al, arXiv v6, 2022
 ## Paper stack
 
 
+nnFoundation: 3D Foundation Models for Radiology
+\
+Harsy et al, arXiv, 2026
+\
+[[`paper`](https://arxiv.org/abs/2609.26924)
+
+
 E-Values Expand the Scope of Conformal Prediction
 \
 Gauthier et al, arXiv, 2025
