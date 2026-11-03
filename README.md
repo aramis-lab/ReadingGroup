@@ -6,6 +6,22 @@ We meet on Tuesday 15:00-16:30pm.
 
 ## Next meeting
 
+#### Oct 20: 15:00-16:30pm.
+Power gains by using external information in clinical trials are typically not possible when requiring strict type I error control \
+Kopp-Schneider, et al, Biometrical Journal 2019 \
+[[`paper`](https://pmc.ncbi.nlm.nih.gov/articles/PMC7079072/)]
+
+Additional support: Bayesian Data Analysis (Chapter 5: **Hierarchical models** & Chapter 2: **Single-parameter models**)\
+[[`textbook`](https://sites.stat.columbia.edu/gelman/book/BDA3.pdf)]
+
+
+
+## Past meetings
+
+#### Sept 15: 15:15-16:45pm.
+Estimation and variable selection in high dimension in nonlinear mixed-effects models \
+Caillebotte, et al, ArXiv \
+[[`paper`](https://arxiv.org/pdf/2503.20401)]
 #### Sept 29: 15:00-16:30pm.
 Regression Shrinkage and Selection Via the Lasso \
 Tibshirani, Journal of the Royal Statistical Society \
