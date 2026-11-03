@@ -6,14 +6,22 @@ We meet on Tuesday 15:00-16:30pm.
 
 ## Next meeting
 
+#### Sept 29: 15:00-16:30pm.
+Regression Shrinkage and Selection Via the Lasso \
+Tibshirani, Journal of the Royal Statistical Society \
+[[`paper`](https://academic.oup.com/jrsssb/article/58/1/267/7027929)]
+
+Feature Selection in Generalized Linear models via the Lasso: To Scale or Not to Scale? \
+Mathur, Moka and Botev, ArXiv
+[[`paper`](https://arxiv.org/pdf/2311.11236)]
+
+
+## Past meetings
+
 #### Sept 15: 15:15-16:45pm.
 Estimation and variable selection in high dimension in nonlinear mixed-effects models \
 Caillebotte, et al, ArXiv \
 [[`paper`](https://arxiv.org/pdf/2503.20401)]
-
-
-
-## Past meetings
 
 #### Sept 1: 15:30-17:00pm.
 Health system learning enables generalist neuroimaging models \
