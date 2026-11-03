@@ -22,8 +22,22 @@ Additional support: Bayesian Data Analysis (Chapter 5: **Hierarchical models** &
 Estimation and variable selection in high dimension in nonlinear mixed-effects models \
 Caillebotte, et al, ArXiv \
 [[`paper`](https://arxiv.org/pdf/2503.20401)]
+#### Sept 29: 15:00-16:30pm.
+Regression Shrinkage and Selection Via the Lasso \
+Tibshirani, Journal of the Royal Statistical Society \
+[[`paper`](https://academic.oup.com/jrsssb/article/58/1/267/7027929)]
+
+Feature Selection in Generalized Linear models via the Lasso: To Scale or Not to Scale? \
+Mathur, Moka and Botev, ArXiv
+[[`paper`](https://arxiv.org/pdf/2311.11236)]
 
 
+## Past meetings
+
+#### Sept 15: 15:15-16:45pm.
+Estimation and variable selection in high dimension in nonlinear mixed-effects models \
+Caillebotte, et al, ArXiv \
+[[`paper`](https://arxiv.org/pdf/2503.20401)]
 
 #### Sept 1: 15:30-17:00pm.
 Health system learning enables generalist neuroimaging models \
@@ -218,6 +232,13 @@ Angelopoulos et al, arXiv v6, 2022
 [[`paper`](https://people.eecs.berkeley.edu/~angelopoulos/publications/downloads/gentle_intro_conformal_dfuq.pdf)]
 
 ## Paper stack
+
+
+nnFoundation: 3D Foundation Models for Radiology
+\
+Harsy et al, arXiv, 2026
+\
+[[`paper`](https://arxiv.org/abs/2609.26924)
 
 
 E-Values Expand the Scope of Conformal Prediction
