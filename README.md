@@ -11,10 +11,6 @@ Regression Shrinkage and Selection Via the Lasso \
 Tibshirani, Journal of the Royal Statistical Society \
 [[`paper`](https://academic.oup.com/jrsssb/article/58/1/267/7027929)]
 
-Feature Selection in Generalized Linear models via the Lasso: To Scale or Not to Scale? \
-Mathur, Moka and Botev, ArXiv
-[[`paper`](https://arxiv.org/pdf/2311.11236)]
-
 
 ## Past meetings
 
@@ -270,6 +266,10 @@ A Shift in Perspective on Causality in Domain Generalization
 Machlanski et al, UKAIRS, 2025 
 \
 [[`paper`](https://arxiv.org/pdf/2508.12798)]
+
+Feature Selection in Generalized Linear models via the Lasso: To Scale or Not to Scale? \
+Mathur, Moka and Botev, ArXiv \
+[[`paper`](https://arxiv.org/pdf/2311.11236)]
 
 ## Additional Resources
 
