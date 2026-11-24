@@ -6,13 +6,20 @@ We meet on Tuesday 15:00-16:30pm.
 
 ## Next meeting
 
+#### Dec 15: 15:00-16:30pm.
+
+Safety from Honesty in a Disinterested AI Predictor 
+\
+Bengio et al, 2026
+\
+[[`paper`](https://arxiv.org/abs/2606.29657)]
+
+## Past meetings
+
 #### Nov 24: 15:00-16:30pm.
 Feature Selection in Generalized Linear models via the Lasso: To Scale or Not to Scale? \
 Mathur, Moka and Botev, ArXiv \
 [[`paper`](https://arxiv.org/pdf/2311.11236)]
-
-
-## Past meetings
 
 #### Nov 10: 15:00-16:30pm.
 Regression Shrinkage and Selection Via the Lasso \
@@ -271,12 +278,6 @@ A Shift in Perspective on Causality in Domain Generalization
 Machlanski et al, UKAIRS, 2025 
 \
 [[`paper`](https://arxiv.org/pdf/2508.12798)]
-
-Safety from Honesty in a Disinterested AI Predictor 
-\
-Bengio et al, 2026
-\
-[[`paper`](https://arxiv.org/abs/2606.29657)]
 
 ## Additional Resources
 
